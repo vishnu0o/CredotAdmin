@@ -1,0 +1,10 @@
+.main {
+  margin: 0;
+  padding: 0;
+  /* background-color: #fafafa; */
+  width: auto;
+  height: auto;
+}
+.main::-webkit-scrollbar {
+  display: none;
+}
